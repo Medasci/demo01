@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Medasci/demo01.git/static/css/main.073c9b0a.css",
+    "main.js": "/Medasci/demo01.git/static/js/main.7abf49ff.js",
+    "static/js/787.fbf783f9.chunk.js": "/Medasci/demo01.git/static/js/787.fbf783f9.chunk.js",
+    "static/media/logo.svg": "/Medasci/demo01.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Medasci/demo01.git/index.html",
+    "main.073c9b0a.css.map": "/Medasci/demo01.git/static/css/main.073c9b0a.css.map",
+    "main.7abf49ff.js.map": "/Medasci/demo01.git/static/js/main.7abf49ff.js.map",
+    "787.fbf783f9.chunk.js.map": "/Medasci/demo01.git/static/js/787.fbf783f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.7abf49ff.js"
+  ]
+}
